@@ -74,7 +74,6 @@ const Hero = () => {
         duration: 0.8
       }} className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12">
           Learning. Building. Improving.
-          <span className="text-foreground"> high-performance</span> ​ 
         </motion.p>
 
         <motion.div initial={{
