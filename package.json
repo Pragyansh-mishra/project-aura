@@ -1,8 +1,9 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "pragyansh mishra",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author":"pragyansh mishra",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
