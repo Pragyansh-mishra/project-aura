@@ -32,9 +32,8 @@ const About = () => {
           <p>
             I'm a B.Tech Computer Science (AI) student at{" "}
             <span className="text-foreground">JK Lakshmipat University</span>, 
-            passionate about learning by building real projects. My journey in tech 
-            is fueled by a simple philosophy: the best way to understand something 
-            is to create it.
+            learning by building real projects and exploring how ideas turn into 
+            working systems. I believe the best way to understand technology is to create with it.
           </p>
           
           <p>
