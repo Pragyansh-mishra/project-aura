@@ -73,8 +73,8 @@ const Hero = () => {
         delay: 0.5,
         duration: 0.8
       }} className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12">
-          Building the future through code. Transforming ideas into elegant,
-          <span className="text-foreground"> high-performance</span> digital experiences.
+          Learning. Building. Improving.
+          <span className="text-foreground"> high-performance</span> ​ 
         </motion.p>
 
         <motion.div initial={{
